@@ -1,0 +1,11 @@
+Model Information:
+* title:	Maneki-neko
+* source:	https://sketchfab.com/3d-models/maneki-neko-eb061f24a9bc437d8a1f8b8c6ed70591
+* author:	eickholt (https://sketchfab.com/eickholt)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Maneki-neko" (https://sketchfab.com/3d-models/maneki-neko-eb061f24a9bc437d8a1f8b8c6ed70591) by eickholt (https://sketchfab.com/eickholt) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
