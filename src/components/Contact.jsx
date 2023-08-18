@@ -35,15 +35,15 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_jfng088",
-        "template_gfnnlzn",
+        "",
+        "",
         {
           from_name: form.name,
-          to_name: "Geng Cha Vue",
+          to_name: "",
           from_email: form.email,
           message: emailMessage,
         },
-        "VchPwnx2KGUOddzdJ"
+        ""
       )
       .then(
         () => {
