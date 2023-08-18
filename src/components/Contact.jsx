@@ -17,6 +17,8 @@ const Contact = () => {
 
   const [loading, setLoading] = useState(false);
 
+  const emailMessage = `Sender Email: ${form.email}\n\n${form.message}`;
+
   const handleChange = (e) => {
     const { target } = e;
     const { name, value } = e.target;
@@ -33,16 +35,15 @@ const Contact = () => {
 
     emailjs
       .send(
-        "",
-        "",
+        "service_jfng088",
+        "template_gfnnlzn",
         {
           from_name: form.name,
-          to_name: "",
+          to_name: "Geng Cha Vue",
           from_email: form.email,
-          to_email: "",
-          message: form.message,
+          message: emailMessage,
         },
-        ""
+        "VchPwnx2KGUOddzdJ"
       )
       .then(
         () => {
